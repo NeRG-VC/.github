@@ -1,6 +1,6 @@
 # NeRG-VC
 
-*Ne*ill's *R*esearch *G*roup - *V*isual *C*omputing, University of Bath
+**Ne**ill's **R**esearch **G**roup - **V**isual **C**omputing, University of Bath
 
 ## ??
 
